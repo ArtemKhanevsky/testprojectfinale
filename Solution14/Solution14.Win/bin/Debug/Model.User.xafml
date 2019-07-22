@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <ModelEditorSettings State="Normal" X="32" Y="32" Width="926" Height="737">
+    <GridListEditorCustomizationForm Top="0" Left="0" Width="0" Height="0" />
+    <ModelEditorControl CurrentAspect="(Default language)" SplitterPosition="0,5" SearchControlVisible="0" FocusedObject="Views\Airport_pilots_ListView" GroupSettings="Actions=False;Views=True" />
+    <SearchControl SearchSplitterPosition="323" SchemaVisible="1" />
+  </ModelEditorSettings>
+  <Options DocumentManagerState="PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8RG9jdW1lbnRNYW5hZ2VyU3RhdGUgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6eHNkPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYSI+DQogIDxEb2N1bWVudERlc2NyaXB0aW9ucz4NCiAgICA8RG9jdW1lbnREZXNjcmlwdGlvbj4NCiAgICAgIDxTZXJpYWxpemVkQ29udHJvbD5WaWV3SUQ9UGxhbmVfTGlzdFZpZXcmYW1wO09iamVjdEtleT0mYW1wO1Njcm9sbFBvc2l0aW9uPSZhbXA7T2JqZWN0Q2xhc3NOYW1lPVNvbHV0aW9uMTQuTW9kdWxlLkJ1c2luZXNzT2JqZWN0cy5QbGFuZTwvU2VyaWFsaXplZENvbnRyb2w+DQogICAgICA8SW1hZ2VOYW1lPkJPX1Vua25vd248L0ltYWdlTmFtZT4NCiAgICAgIDxDYXB0aW9uPtCh0LDQvNC+0LvQtdGCPC9DYXB0aW9uPg0KICAgICAgPENvbnRyb2xOYW1lPjQ3MzY1ZWU3LWE1YmQtNGQzOC1hNzQ2LWM5YWI4MzdlZWQ4NTwvQ29udHJvbE5hbWU+DQogICAgPC9Eb2N1bWVudERlc2NyaXB0aW9uPg0KICAgIDxEb2N1bWVudERlc2NyaXB0aW9uPg0KICAgICAgPFNlcmlhbGl6ZWRDb250cm9sPlZpZXdJRD1QaWxvdF9MaXN0VmlldyZhbXA7T2JqZWN0S2V5PSZhbXA7U2Nyb2xsUG9zaXRpb249JmFtcDtPYmplY3RDbGFzc05hbWU9U29sdXRpb24xNC5Nb2R1bGUuQnVzaW5lc3NPYmplY3RzLlBpbG90PC9TZXJpYWxpemVkQ29udHJvbD4NCiAgICAgIDxJbWFnZU5hbWU+Qk9fVW5rbm93bjwvSW1hZ2VOYW1lPg0KICAgICAgPENhcHRpb24+0J/QuNC70L7RgjwvQ2FwdGlvbj4NCiAgICAgIDxDb250cm9sTmFtZT5lOTNjOGI5YS1mNTk4LTRlNWEtOWEwMy0yNDg5YjViOTNiOGY8L0NvbnRyb2xOYW1lPg0KICAgIDwvRG9jdW1lbnREZXNjcmlwdGlvbj4NCiAgICA8RG9jdW1lbnREZXNjcmlwdGlvbj4NCiAgICAgIDxTZXJpYWxpemVkQ29udHJvbD5WaWV3SUQ9QWlycG9ydF9MaXN0VmlldyZhbXA7T2JqZWN0S2V5PSZhbXA7U2Nyb2xsUG9zaXRpb249JmFtcDtPYmplY3RDbGFzc05hbWU9U29sdXRpb24xNC5Nb2R1bGUuQnVzaW5lc3NPYmplY3RzLkFpcnBvcnQ8L1NlcmlhbGl6ZWRDb250cm9sPg0KICAgICAgPEltYWdlTmFtZT5CT19Vbmtub3duPC9JbWFnZU5hbWU+DQogICAgICA8Q2FwdGlvbj7QkNGN0YDQvtC/0L7RgNGCPC9DYXB0aW9uPg0KICAgICAgPENvbnRyb2xOYW1lPjczYzlhYTkzLWU0YzQtNDFlMC04NzY1LTU4NWE1ZjJjZWNmZDwvQ29udHJvbE5hbWU+DQogICAgPC9Eb2N1bWVudERlc2NyaXB0aW9uPg0KICA8L0RvY3VtZW50RGVzY3JpcHRpb25zPg0KICA8Vmlld0xheW91dD5IUUlBQVBJT29IZnlBSGZ5QWFCMzhnSjM4Z09oZC9JRUFQSUJvSGZ5QmZMQW9IZnlCbmZ5QjZGMzhnZ0E4Z0NnZC9JSmQvSUtvSGZ5QzNmeUNxQjM4Z3p5QUtCMzhnMTM4Z3FnZC9JT2QvSVBvWGZ5RUFEeUFLRjM4aEVBOGdDaGQvSVNBUElBb1hmeUUvSUc4Z2FoZC9JVUFQSU1vSGZ5RlhmeUZxQjM4aGVnb0hmeUdQSUFvSGZ5R1hmeUdxQjM4aHVnb1hmeUhBRHlBS0IzOGgyZ29IZnlIbmZ5SDZCMzhpQjM4aUdnZC9JaW9LQjM4aU4zOGlTZ2QvSWxkL0ltb1hmeUp3RHlES0IzOGhWMzhoYWdkL0lYb0tCMzhoanlBYUIzOGhsMzhocWdkL0lib0tGMzhod0E4Z0NnZC9JZG9LQjM4aDUzOGgrZ2QvSWdkL0lob0hmeUlxQ2dkL0lqZC9Jb29IZnlKWGZ5SnFGMzhpa0E4Z3lnZC9JVmQvSVdvSGZ5RjZHZ2QvSVk4Z0tnZC9JWmQvSWFvSGZ5RzZDaGQvSWNBUElBb0hmeUhhQ2dkL0llZC9JcW9IZnlJSGZ5SWFCMzhpS2hvSGZ5STNmeUs2QjM4aVYzOGlhaGQvSXNBUElIb0hmeUxYZnlMcUIzOGk4QW9IZnlCbmZ5QjZCMzhoanlBS0YzOGpBQThnS2dkL0l4cWdBQUFBQUFBUEEvb0hmeU1uZnlNNkIzOGlOMzhqU2dkL0lsZC9JMW9YZnlOZ0R5QjZCMzhpMTM4alNnZC9JdmQvSVdvSGZ5Qm5meUI2QjM4aGp5QUtGMzhqQUE4Z0tnZC9JeHFnQUFBQUFBQVBBL29IZnlNbmZ5TTZCMzhpTjM4amVnZC9JbGQvSTFvWGZ5T0FEeUJhRjM4aHdBOGdDZ2QvSXc5TnNDb0hmeUdQSUFvSGZ5STNmeUZxQjM4aVYzOGpueU9nNGpUR0Y1YjNWMFZtVnljMmx2YmdBU0kweGhlVzkxZEZOallXeGxSbUZqZEc5eUtVQXhNQ3hYYVdSMGFEMHhMakUyTmpZMk5qWXpRREV3TEVobGFXZG9kRDB4TGpJek1EYzJPVEk0RWtSdlkzVnRaVzUwVUhKdmNHVnlkR2xsY3d0TllYaFVZV0pYYVdSMGFBdFBjbWxsYm5SaGRHbHZiZ3BJYjNKcGVtOXVkR0ZzRjBSdlkzVnRaVzUwUjNKdmRYQlFjbTl3WlhKMGFXVnpGRVZ1WVdKc1pVWnlaV1ZNWVhsdmRYUk5iMlJsQjBSbFptRjFiSFFWUlc1aFlteGxVM1JwWTJ0NVUzQnNhWFIwWlhKekdVTjFjM1J2YlZKbGMybDZaVnB2Ym1WVWFHbGphMjVsYzNNRlUzUjViR1VaUm14dllYUnBibWRFYjJOMWJXVnVkRU52Ym5SaGFXNWxjZzFFYjJOMWJXVnVkSE5JYjNOMEdreHZZV1JwYm1kSmJtUnBZMkYwYjNKUWNtOXdaWEowYVdWekdrUnZZM1Z0Wlc1MFUyVnNaV04wYjNKUWNtOXdaWEowYVdWekYxZHBibVJ2ZDNORWFXRnNiMmRRY205d1pYSjBhV1Z6QlVsMFpXMXpCVWwwWlcweENsQmhjbVZ1ZEU1aGJXVU9SRzlqZFcxbGJuUkhjbTkxY0RBS1NYTlRaV3hsWTNSbFpBVkpibVJsZUF0WGFXNWtiM2RUZEdGMFpRWk9iM0p0WVd3R1VHbHVibVZrQ2xCeWIzQmxjblJwWlhNS1NYTkdiRzloZEdsdVp3aE1iMk5oZEdsdmJoSkFOQ3hZUFMwM016RkFOQ3haUFMwME9UQUVVMmw2WlJsQU15eFhhV1IwYUQwM016RkFNeXhJWldsbmFIUTlORGt3Q0VselFXTjBhWFpsQkU1aGJXVWtORGN6TmpWbFpUY3RZVFZpWkMwMFpETTRMV0UzTkRZdFl6bGhZamd6TjJWbFpEZzFDRlI1Y0dWT1lXMWxDRVJ2WTNWdFpXNTBCVWwwWlcweUpHVTVNMk00WWpsaExXWTFPVGd0TkdVMVlTMDVZVEF6TFRJME9EbGlOV0k1TTJJNFpnVkpkR1Z0TXcxQU1TeFlQVEJBTWl4WlBUTTJKRGN6WXpsaFlUa3pMV1UwWXpRdE5ERmxNQzA0TnpZMUxUVTROV0UxWmpKalpXTm1aQVZKZEdWdE5BWlFZWEpsYm5RRVVtOXZkQWRGYkdWdFpXNTBCa3hsYm1kMGFBbFZibWwwVm1Gc2RXVUlWVzVwZEZSNWNHVUVVM1JoY2dnME9EQTVOVFV5TXhCRWIyTnJhVzVuUTI5dWRHRnBibVZ5QlVsMFpXMDFDRE13TWpBMk5USTBCVWwwWlcwMkRVUnZZM1Z0Wlc1MFIzSnZkWEE9PC9WaWV3TGF5b3V0Pg0KPC9Eb2N1bWVudE1hbmFnZXJTdGF0ZT4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==" />
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="19.1.3.0" IsNewNode="True" />
+    <SchemaModule Name="SystemWindowsFormsModule" Version="19.1.3.0" IsNewNode="True" />
+  </SchemaModules>
+  <Templates>
+    <Template Id="DevExpress.ExpressApp.Win.Templates.LookupControlTemplate" IsNewNode="True">
+      <FormStates IsNewNode="True">
+        <FormState Id="Airport_LookupListView" IsNewNode="True" />
+      </FormStates>
+    </Template>
+    <Template Id="DevExpress.ExpressApp.Win.Templates.LookupForm" IsNewNode="True">
+      <FormStates IsNewNode="True">
+        <FormState Id="Default" State="Normal" X="661" Y="329" Width="420" Height="379" IsNewNode="True" />
+      </FormStates>
+    </Template>
+    <Template Id="DevExpress.ExpressApp.Win.Templates.PopupForm" IsNewNode="True">
+      <FormStates IsNewNode="True">
+        <FormState Id="ValidationResults_Error_DetailView" X="563" Y="270" IsNewNode="True" />
+      </FormStates>
+    </Template>
+    <Template Id="DevExpress.ExpressApp.Win.Templates.Ribbon.DetailRibbonFormV2" IsNewNode="True">
+      <FormStates IsNewNode="True">
+        <FormState Id="Airport_DetailView" IsNewNode="True" />
+        <FormState Id="Airport_ListView" IsNewNode="True" />
+        <FormState Id="Pilot_DetailView" IsNewNode="True" />
+        <FormState Id="Pilot_ListView" IsNewNode="True" />
+        <FormState Id="Plane_DetailView" IsNewNode="True" />
+        <FormState Id="Plane_ListView" IsNewNode="True" />
+        <FormState Id="ReportDataV2_DetailView" IsNewNode="True" />
+        <FormState Id="ReportDataV2_ListView" IsNewNode="True" />
+      </FormStates>
+    </Template>
+    <Template Id="DevExpress.ExpressApp.Win.Templates.Ribbon.LightStyleMainRibbonForm" DockManagerSettings="77u/PFh0cmFTZXJpYWxpemVyIHZlcnNpb249IjEuMCIgYXBwbGljYXRpb249IkRvY2tNYW5hZ2VyIj4NCiAgPHByb3BlcnR5IG5hbWU9IiNMYXlvdXRWZXJzaW9uIiAvPg0KICA8cHJvcGVydHkgbmFtZT0iI0xheW91dFNjYWxlRmFjdG9yIj5AMTAsV2lkdGg9MS4xNjY2NjY2M0AxMCxIZWlnaHQ9MS4yMzA3NjkyODwvcHJvcGVydHk+DQogIDxwcm9wZXJ0eSBuYW1lPSJBbGxvd0dseXBoU2tpbm5pbmciPmZhbHNlPC9wcm9wZXJ0eT4NCiAgPHByb3BlcnR5IG5hbWU9IlN0eWxlIj5EZWZhdWx0PC9wcm9wZXJ0eT4NCiAgPHByb3BlcnR5IG5hbWU9IkF1dG9IaWRkZW5QYW5lbENhcHRpb25TaG93TW9kZSI+U2hvd0ZvckFsbFBhbmVsczwvcHJvcGVydHk+DQogIDxwcm9wZXJ0eSBuYW1lPSJBdXRvSGlkZUNvbnRhaW5lcnMiIGlza2V5PSJ0cnVlIiB2YWx1ZT0iMCIgLz4NCiAgPHByb3BlcnR5IG5hbWU9IkRvY2tpbmdPcHRpb25zIiBpc251bGw9InRydWUiIGlza2V5PSJ0cnVlIj4NCiAgICA8cHJvcGVydHkgbmFtZT0iQXV0b0hpZGVQYW5lbFZlcnRpY2FsVGV4dE9yaWVudGF0aW9uIj5EZWZhdWx0PC9wcm9wZXJ0eT4NCiAgICA8cHJvcGVydHkgbmFtZT0iVGFiYmVkUGFuZWxWZXJ0aWNhbFRleHRPcmllbnRhdGlvbiI+RGVmYXVsdDwvcHJvcGVydHk+DQogICAgPHByb3BlcnR5IG5hbWU9IkN1c3RvbVJlc2l6ZVpvbmVUaGlja25lc3MiPjA8L3Byb3BlcnR5Pg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJDdXJzb3JGbG9hdENhbmNlbGVkIiBpc251bGw9InRydWUiIC8+DQogICAgPHByb3BlcnR5IG5hbWU9IkhpZGVJbW1lZGlhdGVseU9uQXV0b0hpZGUiPmZhbHNlPC9wcm9wZXJ0eT4NCiAgICA8cHJvcGVydHkgbmFtZT0iQ2xvc2VBY3RpdmVUYWJPbmx5Ij50cnVlPC9wcm9wZXJ0eT4NCiAgICA8cHJvcGVydHkgbmFtZT0iQ2xvc2VBY3RpdmVGbG9hdFRhYk9ubHkiPmZhbHNlPC9wcm9wZXJ0eT4NCiAgICA8cHJvcGVydHkgbmFtZT0iU2hvd0NhcHRpb25Pbk1vdXNlSG92ZXIiPmZhbHNlPC9wcm9wZXJ0eT4NCiAgICA8cHJvcGVydHkgbmFtZT0iU2hvd0NhcHRpb25JbWFnZSI+ZmFsc2U8L3Byb3BlcnR5Pg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJBbGxvd1Jlc3RvcmVUb0F1dG9IaWRlQ29udGFpbmVyIj5mYWxzZTwvcHJvcGVydHk+DQogICAgPHByb3BlcnR5IG5hbWU9IkRvY2tQYW5lbEluVGFiQ29udGFpbmVyVGFiUmVnaW9uIj5Eb2NrSW1tZWRpYXRlbHk8L3Byb3BlcnR5Pg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJEb2NrUGFuZWxJbkNhcHRpb25SZWdpb24iPkRlZmF1bHQ8L3Byb3BlcnR5Pg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJTbmFwTW9kZSI+Tm9uZTwvcHJvcGVydHk+DQogICAgPHByb3BlcnR5IG5hbWU9IlNob3dNYXhpbWl6ZUJ1dHRvbiI+dHJ1ZTwvcHJvcGVydHk+DQogICAgPHByb3BlcnR5IG5hbWU9IlNob3dBdXRvSGlkZUJ1dHRvbiI+dHJ1ZTwvcHJvcGVydHk+DQogICAgPHByb3BlcnR5IG5hbWU9IlNob3dDbG9zZUJ1dHRvbiI+dHJ1ZTwvcHJvcGVydHk+DQogICAgPHByb3BlcnR5IG5hbWU9IkZsb2F0T25EYmxDbGljayI+dHJ1ZTwvcHJvcGVydHk+DQogIDwvcHJvcGVydHk+DQogIDxwcm9wZXJ0eSBuYW1lPSJBY3RpdmVQYW5lbElEIj4tMTwvcHJvcGVydHk+DQogIDxwcm9wZXJ0eSBuYW1lPSJYdHJhU2VyaWFsaXphYmxlU2NyZWVuQ29uZmlndXJhdGlvbiIgaXNrZXk9InRydWUiIHZhbHVlPSIxIj4NCiAgICA8cHJvcGVydHkgbmFtZT0iSXRlbTEiPkAxLFg9MEAxLFk9MEA0LFdpZHRoPTE5MjBANCxIZWlnaHQ9MTA4MDwvcHJvcGVydHk+DQogIDwvcHJvcGVydHk+DQogIDxwcm9wZXJ0eSBuYW1lPSJQYW5lbHMiIGlza2V5PSJ0cnVlIiB2YWx1ZT0iMCIgLz4NCiAgPHByb3BlcnR5IG5hbWU9IlRvcFpJbmRleENvbnRyb2xzIiBpc2tleT0idHJ1ZSIgdmFsdWU9IjIiPg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJJdGVtMSIgdHlwZT0iU3lzdGVtLlN0cmluZyI+RGV2RXhwcmVzcy5FeHByZXNzQXBwLldpbi5UZW1wbGF0ZXMuUmliYm9uLlhhZlJpYmJvbkNvbnRyb2xWMjwvcHJvcGVydHk+DQogICAgPHByb3BlcnR5IG5hbWU9Ikl0ZW0yIiB0eXBlPSJTeXN0ZW0uU3RyaW5nIj5EZXZFeHByZXNzLlh0cmFCYXJzLlJpYmJvbi5SaWJib25TdGF0dXNCYXI8L3Byb3BlcnR5Pg0KICA8L3Byb3BlcnR5Pg0KPC9YdHJhU2VyaWFsaXplcj4=" IsNewNode="True">
+      <FormStates IsNewNode="True">
+        <FormState Id="Default" State="Normal" X="427" Y="153" Width="933" Height="743" IsNewNode="True" />
+      </FormStates>
+      <NavBarCustomization Width="200" IsNewNode="True" />
+    </Template>
+  </Templates>
+  <Views>
+    <DetailView Id="Airport_DetailView">
+      <Layout>
+        <LayoutGroup Id="Main" RelativeSize="100">
+          <LayoutGroup Id="SimpleEditors" RelativeSize="13.333333333333334">
+            <LayoutGroup Id="Airport" RelativeSize="100">
+              <LayoutItem Id="Name" RelativeSize="34" />
+              <LayoutItem Id="count" RelativeSize="28" />
+              <LayoutItem Id="count2" RelativeSize="38" />
+            </LayoutGroup>
+            <LayoutGroup Id="XPObject" Removed="True" />
+          </LayoutGroup>
+          <TabbedGroup Id="Tabs" RelativeSize="86.666666666666671">
+            <LayoutGroup Id="planes" TextAlignMode="AlignWithChildren" RelativeSize="100">
+              <LayoutItem Id="planes" TextAlignMode="AutoSize" RelativeSize="100" />
+            </LayoutGroup>
+            <LayoutGroup Id="pilots" TextAlignMode="AlignWithChildren" RelativeSize="100">
+              <LayoutItem Id="pilots" TextAlignMode="AutoSize" RelativeSize="100" />
+            </LayoutGroup>
+          </TabbedGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+    <ListView Id="Airport_ListView" DataAccessMode="Server">
+      <Columns>
+        <ColumnInfo Id="Name" SortOrder="Descending" Width="562" />
+        <ColumnInfo Id="count" Width="78" />
+        <ColumnInfo Id="count2" Width="63" />
+      </Columns>
+    </ListView>
+    <ListView Id="Airport_LookupListView" DataAccessMode="Client" />
+    <ListView Id="Airport_pilots_ListView" DataAccessMode="Client" />
+    <ListView Id="Airport_planes_ListView" DataAccessMode="Client" />
+    <ListView Id="BaseObject_ListView" DataAccessMode="Server" />
+    <ListView Id="BaseObject_LookupListView" DataAccessMode="Server" />
+    <ListView Id="DashboardName_ListView" DataAccessMode="Server" />
+    <ListView Id="DashboardName_LookupListView" DataAccessMode="Server" />
+    <ListView Id="IRuleBaseProperties_ListView" DataAccessMode="Server" />
+    <ListView Id="PersistentBase_ListView" DataAccessMode="Server" />
+    <ListView Id="PersistentBase_LookupListView" DataAccessMode="Server" />
+    <ListView Id="Pilot_ListView" DataAccessMode="Server">
+      <Columns>
+        <ColumnInfo Id="Name" SortIndex="-1" SortOrder="None" />
+        <ColumnInfo Id="Airport" SortIndex="0" SortOrder="Ascending" />
+      </Columns>
+    </ListView>
+    <ListView Id="Pilot_LookupListView" DataAccessMode="Client" />
+    <ListView Id="Pilot_planes_ListView" DataAccessMode="Client" />
+    <DetailView Id="Plane_DetailView">
+      <Layout>
+        <LayoutGroup Id="Main" RelativeSize="100">
+          <LayoutGroup Id="SimpleEditors" RelativeSize="13.066666666666666">
+            <LayoutGroup Id="Plane" RelativeSize="100">
+              <LayoutItem Id="Name" RelativeSize="34.693877551020407" />
+              <LayoutItem Id="Airport" RelativeSize="26.530612244897959" />
+              <LayoutItem Id="count" RelativeSize="38.775510204081634" />
+            </LayoutGroup>
+            <LayoutGroup Id="XPObject" Removed="True" />
+          </LayoutGroup>
+          <LayoutGroup Id="pilots_Group" TextAlignMode="AlignWithChildren" Direction="Vertical" RelativeSize="86.933333333333337">
+            <LayoutItem Id="pilots" RelativeSize="100" />
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+    <ListView Id="Plane_ListView" DataAccessMode="Server">
+      <Columns>
+        <ColumnInfo Id="Name" SortIndex="-1" SortOrder="None" />
+        <ColumnInfo Id="Airport" SortIndex="0" SortOrder="Ascending" />
+      </Columns>
+    </ListView>
+    <ListView Id="Plane_LookupListView" DataAccessMode="Client">
+      <Columns>
+        <ColumnInfo Id="pipiska" PropertyName="Airport" IsNewNode="True" />
+      </Columns>
+    </ListView>
+    <ListView Id="Plane_pilots_ListView" DataAccessMode="Client" />
+    <ListView Id="ReportDataV2_ListView" DataAccessMode="Server" />
+    <ListView Id="ReportDataV2_LookupListView" DataAccessMode="Server" />
+    <ListView Id="XPBaseObject_ListView" DataAccessMode="Server" />
+    <ListView Id="XPBaseObject_LookupListView" DataAccessMode="Server" />
+    <ListView Id="XPCustomObject_ListView" DataAccessMode="Server" />
+    <ListView Id="XPCustomObject_LookupListView" DataAccessMode="Server" />
+    <ListView Id="XPObject_ListView" DataAccessMode="Server" />
+    <ListView Id="XPObject_LookupListView" DataAccessMode="Server" />
+  </Views>
+</Application>
